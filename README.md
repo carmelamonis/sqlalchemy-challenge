@@ -9,6 +9,6 @@ Our database includes two tables, precipitation measurement data and station dat
 
 ![Precipitation Data](Images/precipitation.png)
 
-![Temperature Data](Images/temperature.png)
+![Temperature Data](Images/station_histogram.png)
 
 Similarly, I did the same when I created a Flask app that had precipitation measurement and station information. I created a route for each that returned the data in a JSON format. I also created a route that had the information in JSON format for a specific start date, and another that could also take in a specific end date.
